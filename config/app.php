@@ -145,6 +145,11 @@ return [
 		'App\Providers\EventServiceProvider',
 		'App\Providers\RouteServiceProvider',
 
+		/*
+		 * Lecter Service Providers
+		 */
+		'MrJuliuss\Lecter\LecterServiceProvider'
+
 	],
 
 	/*
