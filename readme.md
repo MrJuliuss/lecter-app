@@ -10,7 +10,7 @@ This repository include a full Laravel app for Lecter. If you already have a Lar
 
 PHP 5.5+ and Composer are required.
 
-Get the app source : `git clone git@github.com:MrJuliuss/lecter-app.git` and launch `composer install`
+Get the app source : `git clone https://github.com/MrJuliuss/lecter-app.git` and launch `composer install`
 
 Set write permissions to the storage folder : `chmod -R 777 storage`.
 
